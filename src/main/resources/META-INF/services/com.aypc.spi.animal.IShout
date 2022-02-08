@@ -1,0 +1,3 @@
+com.aypc.spi.animal.impl.Cat
+com.aypc.spi.animal.impl.Dog
+com.aypc.spi.animal.impl.Pig
